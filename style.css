@@ -1,0 +1,43 @@
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* text-align: center; */
+
+  
+
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: gray;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+
+
+ul a li {
+
+    list-style-position: inside;
+
+}
+
+section{
+    max-width: 500px;
+    margin: auto;
+}
+
+header{
+    text-align: center;
+}
+
+.resim{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
